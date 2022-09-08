@@ -3,7 +3,7 @@ def main():
 
     infile = open("customers.csv","r")
 
-    csvfile = csv.reader(infile,delimiter=",")
+    csvfile = csv.reader(infile, delimiter=",")
 
     next(csvfile) #this skips the first line
 

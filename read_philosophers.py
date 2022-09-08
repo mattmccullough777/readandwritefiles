@@ -8,9 +8,8 @@ def main():
     print(line1)
     print(line2)
     print(line3)
-    
-    #file_contents = infile.read()
-    
-    #print(file_contents)
+
+    infile.close()
+
 
 main()
