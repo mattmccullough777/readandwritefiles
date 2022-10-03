@@ -13,3 +13,15 @@ def main():
 
 
 main()
+
+
+# def test():
+#     infile = open("philosophers.txt","r")
+
+#     lines = infile.read()
+
+#     print(lines)
+
+
+
+# test()
